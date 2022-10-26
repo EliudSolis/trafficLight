@@ -1,0 +1,32 @@
+body{
+  background-color: black;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: white;
+}
+
+
+.bulb{
+  border: 1px solid white;
+  height: 250px;
+  width: 250px;
+  border-radius: 50%;
+}
+
+.gray{
+  background-color: gray;
+}
+
+.red{
+  background-color: red;
+}
+
+.yellow{
+  background-color: yellow;
+}
+
+.green{
+  background-color: green;
+}
